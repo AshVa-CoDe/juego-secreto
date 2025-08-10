@@ -41,16 +41,14 @@ El juego evita que se repitan números hasta que se agoten todas las posibilidad
 │── script.js    # Lógica del juego
 └── README.md    # Este archivo
 
+---
+
 ## 🎮 Cómo jugar
 
-    Abre el archivo index.html en tu navegador.
+1. Abre el archivo `index.html` en tu navegador.
+2. Ingresa un número en el campo de texto.
+3. Haz clic en **Probar**.
+4. El juego te indicará si el número secreto es mayor o menor.
+5. ¡Sigue intentando hasta acertar!
+6. Cuando ya no queden números posibles, el juego mostrará un mensaje y podrás comenzar una nueva partida.
 
-    Ingresa un número en el campo de texto.
-
-    Haz clic en Probar.
-
-    El juego te indicará si el número secreto es mayor o menor.
-
-    ¡Sigue intentando hasta acertar!
-
-    Cuando ya no queden números posibles, el juego mostrará un mensaje y podrás comenzar una nueva partida.
